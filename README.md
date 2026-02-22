@@ -2,6 +2,8 @@
 
 TspOptimizer is a lightweight desktop application for loading, visualizing, and optimizing **Traveling Salesman Problem (TSP)** instances (TSPLIB-style `.tsp`). It provides an interactive map view and lets you select an optimization method to improve a tour.
 
+![TspOptimizer](TspOptimizer.png)
+
 ## Purpose
 
 - Open a `.tsp` instance and visualize the cities on a 2D plane.
