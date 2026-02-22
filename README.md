@@ -4,6 +4,10 @@ TspOptimizer is a lightweight desktop application for loading, visualizing, and 
 
 ![TspOptimizer](TspOptimizer.png)
 
+## Windows installer
+
+Download the Windows installer from: https://dit.uoi.gr/files/TspOptimizer.zip
+
 ## Purpose
 
 - Open a `.tsp` instance and visualize the cities on a 2D plane.
