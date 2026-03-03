@@ -20,7 +20,7 @@ Download the Windows installer from: https://dit.uoi.gr/files/TspOptimizer.zip
 - **TSPLIB `.tsp` import** (2D Euclidean coordinates).
 - **Tour visualization** with zoom/rotation and optional edge drawing.
 - **Pan the map**: hold **left mouse button** and drag to move the view.
-- **Method selection** from a drop-down (e.g., Genetic Algorithm, Simulated Annealing, 2-opt, Iterated Local Search — depending on your build).
+- **Method selection** from a drop-down (e.g., Genetic Algorithm, Simulated Annealing, 2-opt, Iterated Local Search - depending on your build).
 - **Export** the best tour (`.tour`).
 - Runs optimization in a worker thread so the UI stays responsive.
 
